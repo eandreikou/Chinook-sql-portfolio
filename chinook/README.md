@@ -45,7 +45,7 @@ using clean SQL (CTEs + window functions) and VS Code (**SQLTools**).
 ![Top Customers](screenshots/top_customers.png) 
 ![RFM](screenshots/rfm.png) 
 
-### Product 
+### Product Insights
 ![Revenue by Genre](screenshots/revenue_by_genre.png) 
 
 ---
