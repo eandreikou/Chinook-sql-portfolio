@@ -37,15 +37,15 @@ using clean SQL (CTEs + window functions) and VS Code (**SQLTools**).
 ---
 
 ## Screenshots
-### Sales Overview
+### Sales Overview (Monthly Revenue, Running Total & 3‑Month MA)
 ![Monthly Revenue](screenshots/monthly_revenue.png) 
 ![Running Total & 3‑Month MA](screenshots/running_total_ma3.png)
 
-### Customer Insights
+### Customer Insights (Top Customers, RFM)
 ![Top Customers](screenshots/top_customers.png) 
 ![RFM](screenshots/rfm.png) 
 
-### Product Insights
+### Product Insights (Revenue by Genre)
 ![Revenue by Genre](screenshots/revenue_by_genre.png) 
 
 ---
